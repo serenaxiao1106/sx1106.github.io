@@ -2,4 +2,3 @@
 layout: post
 ---
 
-![](/uploads/d5eb60a82b1e9fc5370d627b2278d65.jpg){: width="1440" height="1080"}
